@@ -2,8 +2,8 @@ from Flame.main import bot
 from pyrogram import filters
 
 
-OWNER = 5083524212
-sudos = 5083524212
+OWNER = 5181343257
+sudos = 5181343257
 
 @bot.on_message(filters.command("info"))
 def info(_, message):
